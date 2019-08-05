@@ -1,0 +1,1 @@
+cmd_/usr/Linux_Kernel/LKTM_SysFs/hw/home.o := ld -m elf_x86_64  -z max-page-size=0x200000   -r -o /usr/Linux_Kernel/LKTM_SysFs/hw/home.o /usr/Linux_Kernel/LKTM_SysFs/hw/hw.o /usr/Linux_Kernel/LKTM_SysFs/hw/kparens.o /usr/Linux_Kernel/LKTM_SysFs/hw/kobj.o 

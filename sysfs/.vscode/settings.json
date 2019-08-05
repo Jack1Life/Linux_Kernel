@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "kparens.h": "c",
+        "module.h": "c",
+        "kobj.h": "c",
+        "hw.h": "c"
+    }
+}

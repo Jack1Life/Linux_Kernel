@@ -1,0 +1,1 @@
+cmd_/usr/Linux_Kernel/LKTM_SysFs/hw/home.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /usr/Linux_Kernel/LKTM_SysFs/hw/home.ko /usr/Linux_Kernel/LKTM_SysFs/hw/home.o /usr/Linux_Kernel/LKTM_SysFs/hw/home.mod.o ;  true
